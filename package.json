@@ -1,0 +1,13 @@
+{
+  "name": "cat-journey-bot",
+  "version": "1.0.0",
+  "description": "A cat that walks when members join",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
